@@ -4,7 +4,6 @@
 
 /* eslint quote-props: 0 */
 
-'use strict';
 
 const Gulp = require('gulp');
 const GulpForwardReference = require('undertaker-forward-reference');
